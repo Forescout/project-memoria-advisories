@@ -1,4 +1,6 @@
 # project-memoria-advisories
-This repository has a list of advisories in relation to project memoria ([AMNESIA:33](https://www.forescout.com/research-labs/amnesia33/), [NUMBER:JACK](https://www.forescout.com/company/blog/numberjack-forescout-research-labs-finds-nine-isn-generation-vulnerabilities-affecting-tcpip-stacks/), [NAME:WRECK](https://www.forescout.com/research-labs/namewreck/)) vulnerabilities.
 
-DISCLAIMER: this list is not exhaustive, there might be other advisories that are not here.
+This repository contains a list of security advisories issued by device vendors in response to vulnerabilities discovered in [Project Memoria](https://www.forescout.com/research-labs/project-memoria/).
+
+While Forescout Research Labs works to keep this list updated, it may not be complete. Several vendors are still investigating whether they are affected by these vulnerabilities and there may be other issued advisories that we are not aware of.
+
