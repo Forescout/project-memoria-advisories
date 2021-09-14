@@ -5,6 +5,7 @@ Vulnerable vendors
 |----------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | ABB           | https://search.abb.com/library/Download.aspx?DocumentID=9AKK107992A1892&LanguageCode=en&DocumentPartId=&Action=Launch  | CVE-2016-20009                                                                                                                                                                   | NAME:WRECK   |
 | ATOS           | https://networks.unify.com/security/advisories/OBSO-2101-01.pdf                                                       | CVE-2020-13987                                                                                                                                                                   | AMNESIA:33   |
+| BD             | https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-wreck                                    | CVE-2016-20009                                                                                                                                                                   | NAME:WRECK   |
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1621259206587-en-original-1.0.pdf                  | CVE-2020-13987, CVE-2020-17438                                                                                                                                                   | AMNESIA:33   |
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1620567478764-en-original-1.0.pdf                  | CVE-2016-20009                                                                                                                                                                   | NAME:WRECK   |
 | Cyanconnode AB | https://kb.cert.org/vuls/id/815128                                                                                    | CVE-2020-13985, CVE-2020-13986, CVE-2020-13987, CVE-2020-13988, CVE-2020-17437, CVE-2020-17438, CVE-2020-17439, CVE-2020-17440                                                   | AMNESIA:33   |
@@ -29,6 +30,7 @@ Vulnerable vendors
 | Pilz           | https://www.pilz.com/download/restricted/Pilz_Security_Advis__2021-001_1005808-EN-02.pdf                              | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685 | INFRA:HALT  |
 | Phoenix Contact | https://dam-mdc.phoenixcontact.com/asset/156443151564/fd2c482c84c16546afd992cf1786995e/Security_Advisory_Niche-Stack_20210804.pdf | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31400, CVE-2021-31401, CVE 2021-31227 | INFRA:HALT |
 | RENESAS        | https://www.renesas.com/us/en/document/oth/renesas-response-uip-open-source-tcp-ip-stacks-vulnerability-issue         |                                                                                                                                                                                  | AMNESIA:33   |
+| Ricoh          | https://www.ricoh.com/info/2021/0504_1/ | CVE-2016-20009 | NAME:WRECK | 
 | Rockwell       | https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1132370                                          | CVE-2020-25767, CVE-2020-25926, CVE-2020-25927, CVE-2020-25928, CVE-2021-27565, CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31226, CVE-2021-31227, CVE-2021-31228, CVE-2021-31400, CVE-2021-31401 | INFRA:HALT |
 | Schneider Electric | https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-217-01 | CVE-2021-31400, CVE-2021-31401, CVE-2020-35683, CVE-2020-35684, CVE-2020-35685 | INFRA:HALT |
 | Sharp          | https://jp.sharp/business/lcd-display/support/vulnerability.html                                                      |                                                                                                                                                                                  | AMNESIA:33   |
@@ -57,6 +59,8 @@ Not vulnerable vendors
 | AVM            | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities | AMNESIA:33 | 
 | Edwards Life Sciences | https://www.edwards.com/devices/support/product-security | AMNESIA:33, NAME:WRECK |   
+| F5             | https://support.f5.com/csp/article/K35414143 | AMNESIA:33 |
+| F5             | https://support.f5.com/csp/article/K70746705 | NAME:WRECK |  
 | Fujitsu        | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 |
 | Fujitsu        | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Intel          | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
@@ -67,12 +71,13 @@ Not vulnerable vendors
 | SonicWall      | https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2020-0025 | AMNESIA:33 |
 | Vyaire         | https://www.vyaire.com/sites/us/files/2021-03/2021-03-04-product-security-bulletin_urgent_11_amnesia33_number_jack.pdf | AMNESIA:33, NUMBER:JACK | 
 
-| Abbot Labs, Afero, Arista Networks, Barracuda Networks, B. Braun, Belden, Blackberry QNX, Brocade Communication Systems, Ceragon Networks, Check Point, dd-wrt, Cisco, Digi International, Espressif Systems, F5 Networks, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project, Zyxel | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
+| Abbot Labs, Afero, Arista Networks, Barracuda Networks, B. Braun, Belden, Blackberry QNX, Brocade Communication Systems, Ceragon Networks, Check Point, dd-wrt, Cisco, Digi International, Espressif Systems, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project, Zyxel | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
 
 Investigating
 -------------
 
 | Vendor         | Advisory link | Release name |
 |----------------|---------------|--------------|
+| Canon          | https://global.medical.canon/service-support/securityinformation/multiple-tcp_ip-stacks-vulnerabilities | NAME:WRECK |  
 | Eaton          | https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/eaton-security-bulletin-for-amnesia-33.pdf | AMNESIA:33 | 
 | Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?an=000091576 | AMNESIA:33 |
