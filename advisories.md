@@ -60,7 +60,6 @@ Not vulnerable vendors
 |----------------|---------------|--------------|
 | AVM            | https://en.avm.de/service/current-security-notifications/ | AMNESIA:33 |
 | AVM            | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
-| Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities | AMNESIA:33 | 
 | Edwards Life Sciences | https://www.edwards.com/devices/support/product-security | AMNESIA:33, NAME:WRECK |   
 | F5             | https://support.f5.com/csp/article/K35414143 | AMNESIA:33 |
 | F5             | https://support.f5.com/csp/article/K70746705 | NAME:WRECK |  
@@ -81,6 +80,7 @@ Investigating
 
 | Vendor         | Advisory link | Release name |
 |----------------|---------------|--------------|
+| Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities | AMNESIA:33 | 
 | Canon          | https://global.medical.canon/service-support/securityinformation/multiple-tcp_ip-stacks-vulnerabilities | NAME:WRECK |  
 | Eaton          | https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/eaton-security-bulletin-for-amnesia-33.pdf | AMNESIA:33 | 
 | Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?an=000091576 | AMNESIA:33 |
