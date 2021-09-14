@@ -57,6 +57,7 @@ Not vulnerable vendors
 | AVM            | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities | AMNESIA:33 | 
 | Edwards Life Sciences | https://www.edwards.com/devices/support/product-security | AMNESIA:33, NAME:WRECK |   
+| Fujitsu        | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 |
 | Fujitsu        | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Intel          | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Kuka           | https://xpert.kuka.com/service-express/portal/project1_p/document/kuka-project1_p-basic_GC469_en?context=%7B%22filter%22%3A%7B%7D,%22text%22%3A%22vulnerabilities%22,%22useExpertQuery%22%3A0%7D | AMNESIA:33 |
@@ -66,7 +67,7 @@ Not vulnerable vendors
 | SonicWall      | https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2020-0025 | AMNESIA:33 |
 | Vyaire         | https://www.vyaire.com/sites/us/files/2021-03/2021-03-04-product-security-bulletin_urgent_11_amnesia33_number_jack.pdf | AMNESIA:33, NUMBER:JACK | 
 
-
+| Abbot Labs, Afero, Arista Networks, Barracuda Networks, B. Braun, Belden, Blackberry QNX, Brocade Communication Systems, Ceragon Networks, Check Point, dd-wrt, Cisco, Digi International, Espressif Systems, F5 Networks, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project, Zyxel | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
 
 Investigating
 -------------
