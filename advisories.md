@@ -9,7 +9,6 @@ Vulnerable vendors
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1621259206587-en-original-1.0.pdf                  | CVE-2020-13987, CVE-2020-17438                                                                                                                                                   | AMNESIA:33   |
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1620567478764-en-original-1.0.pdf                  | CVE-2016-20009                                                                                                                                                                   | NAME:WRECK   |
 | Cyanconnode AB | https://kb.cert.org/vuls/id/815128                                                                                    | CVE-2020-13985, CVE-2020-13986, CVE-2020-13987, CVE-2020-13988, CVE-2020-17437, CVE-2020-17438, CVE-2020-17439, CVE-2020-17440                                                   | AMNESIA:33   |
-| Dell           | https://www.dell.com/support/kbdoc/nl-nl/000180988/amnesia-33-impact-on-dell-and-dell-emc-products                    | | AMNESIA:33   |
 | Dell           | https://www.dell.com/support/kbdoc/en-us/000183560/dsa-2021-046-dell-client-security-update-for-amnesia-33-vulnerabilities | | AMNESIA:33 |
 | Devolo         | https://github.com/Forescout/project-memoria-advisories/blob/main/advisories.md                                       |  CVE-2020-13987 | AMNESIA:33   |
 | D-LINK         | https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10198                                  | | AMNESIA:33   |
@@ -82,5 +81,6 @@ Investigating
 |----------------|---------------|--------------|
 | Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities | AMNESIA:33 | 
 | Canon          | https://global.medical.canon/service-support/securityinformation/multiple-tcp_ip-stacks-vulnerabilities | NAME:WRECK |  
+| Dell           | https://www.dell.com/support/kbdoc/en-us/000180988/amnesia-33-impact-on-dell-and-dell-emc-products      | AMNESIA:33   |
 | Eaton          | https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/eaton-security-bulletin-for-amnesia-33.pdf | AMNESIA:33 | 
 | Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?an=000091576 | AMNESIA:33 |
