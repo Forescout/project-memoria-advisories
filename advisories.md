@@ -30,6 +30,7 @@ Vulnerable vendors
 | Phoenix Contact | https://dam-mdc.phoenixcontact.com/asset/156443151564/fd2c482c84c16546afd992cf1786995e/Security_Advisory_Niche-Stack_20210804.pdf | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31400, CVE-2021-31401, CVE 2021-31227 | INFRA:HALT |
 | RENESAS        | https://www.renesas.com/us/en/document/oth/renesas-response-uip-open-source-tcp-ip-stacks-vulnerability-issue         |                 | AMNESIA:33 |
 | Ricoh          | https://www.ricoh.com/info/2021/0504_1/                                                                               | CVE-2016-20009  | NAME:WRECK | 
+| Rockwell       | https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1131196                                          | CVE-2016-20009  | NAME:WRECK |
 | Rockwell       | https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1132370                                          | CVE-2020-25767, CVE-2020-25926, CVE-2020-25927, CVE-2020-25928, CVE-2021-27565, CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31226, CVE-2021-31227, CVE-2021-31228, CVE-2021-31400, CVE-2021-31401 | INFRA:HALT |
 | Schneider Electric | https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-217-01 | CVE-2021-31400, CVE-2021-31401, CVE-2020-35683, CVE-2020-35684, CVE-2020-35685 | INFRA:HALT |
 | Sharp          | https://jp.sharp/business/lcd-display/support/vulnerability.html                                                      |                 | AMNESIA:33 | 
@@ -71,8 +72,9 @@ Not vulnerable vendors
 | Olympus        | https://www.olympus.com.ru/medical/rmt/media/Content/Content-MSD/Images/General/COVID/Olympus-Response-to-Amnesia33-Vulnerabilities.pdf | AMNESIA:33 |
 | SonicWall      | https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2020-0025 | AMNESIA:33 |
 | Vyaire         | https://www.vyaire.com/sites/us/files/2021-03/2021-03-04-product-security-bulletin_urgent_11_amnesia33_number_jack.pdf | AMNESIA:33, NUMBER:JACK | 
+| Zyxel          | https://support.zyxel.eu/hc/en-us/articles/360018352199-Zyxel-security-advisory-for-AMNESIA-33-vulnerabilities | AMNESIA:33 | 
 
-| Abbot Labs, Afero, Arista Networks, Barracuda Networks, B. Braun, Belden, Blackberry QNX, Brocade Communication Systems, Ceragon Networks, Check Point, dd-wrt, Cisco, Digi International, Espressif Systems, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project, Zyxel | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
+| Abbot Labs, Afero, Arista Networks, Barracuda Networks, B. Braun, Belden, Blackberry QNX, Brocade Communication Systems, Ceragon Networks, Check Point, dd-wrt, Cisco, Digi International, Espressif Systems, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
 
 Investigating
 -------------
@@ -84,3 +86,6 @@ Investigating
 | Dell           | https://www.dell.com/support/kbdoc/en-us/000180988/amnesia-33-impact-on-dell-and-dell-emc-products      | AMNESIA:33   |
 | Eaton          | https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/eaton-security-bulletin-for-amnesia-33.pdf | AMNESIA:33 | 
 | Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?an=000091576 | AMNESIA:33 |
+| Terumo         | https://www.terumobct.com/Pages/Support/AMNESIA-33.aspx | AMNESIA:33 |
+| Terumo         | https://www.terumobct.com/Pages/Support/NAMEWRECK.aspx  | NAME:WRECK |
+| Terumo         | https://www.terumobct.com/Pages/Support/INFRA-HALT.aspx | INFRA:HALT |
