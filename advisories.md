@@ -58,8 +58,13 @@ Not vulnerable vendors
 
 | Vendor         | Advisory link | Release name |
 |----------------|---------------|--------------|
+| Abbott         | https://www.abbott.com/policies/cybersecurity/amnesia-33.html | AMNESIA:33 | 
 | AVM            | https://en.avm.de/service/current-security-notifications/ | AMNESIA:33 |
 | AVM            | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
+| B Braun        | https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b--braun-statement-on-cybersecurity-vulnerability-with-amnesia-3.html | AMNESIA:33 |  
+| B Braun        | https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b--braun-information-concerning-name-wreck.html | NAME:WRECK |
+| Broadcom | https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2020-1167 | AMNESIA:33 |  
+| Digi International | https://www.digi.com/resources/security | AMNESIA:33 | 
 | Edwards Life Sciences | https://www.edwards.com/devices/support/product-security | AMNESIA:33, NAME:WRECK |   
 | F5             | https://support.f5.com/csp/article/K35414143 | AMNESIA:33 |
 | F5             | https://support.f5.com/csp/article/K70746705 | NAME:WRECK |  
@@ -74,7 +79,7 @@ Not vulnerable vendors
 | Vyaire         | https://www.vyaire.com/sites/us/files/2021-03/2021-03-04-product-security-bulletin_urgent_11_amnesia33_number_jack.pdf | AMNESIA:33, NUMBER:JACK | 
 | Zyxel          | https://support.zyxel.eu/hc/en-us/articles/360018352199-Zyxel-security-advisory-for-AMNESIA-33-vulnerabilities | AMNESIA:33 | 
 
-| Abbot Labs, Afero, Arista Networks, Barracuda Networks, B. Braun, Belden, Blackberry QNX, Brocade Communication Systems, Ceragon Networks, Check Point, dd-wrt, Cisco, Digi International, Espressif Systems, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
+| Afero, Arista Networks, Barracuda Networks, Belden, Blackberry QNX, Ceragon Networks, Check Point, dd-wrt, Cisco, Espressif Systems, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
 
 Investigating
 -------------
