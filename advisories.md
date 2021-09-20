@@ -75,6 +75,7 @@ Not vulnerable vendors
 | Moxa           | https://www.moxa.com/en/support/product-support/security-advisory/moxas-response-regarding-the-amnesia33-vulnerability | AMNESIA:33 |
 | Nexans         | https://www.nexans-ans.de/support/wp-content/uploads/2021/03/AMNESIA33_Network_Stack_Vulnerabilities_kd-1804e00.pdf | AMNESIA:33 | 
 | Olympus        | https://www.olympus.com.ru/medical/rmt/media/Content/Content-MSD/Images/General/COVID/Olympus-Response-to-Amnesia33-Vulnerabilities.pdf | AMNESIA:33 |
+| Palo Alto      | https://security.paloaltonetworks.com/PAN-SA-2021-0003 | NAME:WRECK |
 | SonicWall      | https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2020-0025 | AMNESIA:33 |
 | Vyaire         | https://www.vyaire.com/sites/us/files/2021-03/2021-03-04-product-security-bulletin_urgent_11_amnesia33_number_jack.pdf | AMNESIA:33, NUMBER:JACK | 
 | Zyxel          | https://support.zyxel.eu/hc/en-us/articles/360018352199-Zyxel-security-advisory-for-AMNESIA-33-vulnerabilities | AMNESIA:33 | 
