@@ -8,8 +8,9 @@ Vulnerable vendors
 | BD             | https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-wreck                                    | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009) | NAME:WRECK   |
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1621259206587-en-original-1.0.pdf                  | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987), [CVE-2020-17438](https://nvd.nist.gov/vuln/detail/CVE-2020-17438) | AMNESIA:33   |
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1620567478764-en-original-1.0.pdf                  | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009) | NAME:WRECK   |
-| Cisco          | https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy11444 | [CVE-2020-7461](https://nvd.nist.gov/vuln/detail/CVE-2020-7461) | NAME:WRECK | 
-| Cisco          | https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvz69775 | | INFRA:HALT | 
+| Cisco          | https://quickview.cloudapps.cisco.com/quickview/bug/CSCvy11445 | [CVE-2020-7461](https://nvd.nist.gov/vuln/detail/CVE-2020-7461) | NAME:WRECK | 
+| Cisco          | https://quickview.cloudapps.cisco.com/quickview/bug/CSCvy11444 | [CVE-2020-7461](https://nvd.nist.gov/vuln/detail/CVE-2020-7461) | NAME:WRECK | 
+| Cisco          | https://quickview.cloudapps.cisco.com/quickview/bug/CSCvz69775 | | INFRA:HALT | 
 | Cyanconnode AB | https://kb.cert.org/vuls/id/815128                                                                                    | CVE-2020-13985, CVE-2020-13986, CVE-2020-13987, CVE-2020-13988, CVE-2020-17437, CVE-2020-17438, CVE-2020-17439, CVE-2020-17440 | AMNESIA:33   |
 | Dell           | https://www.dell.com/support/kbdoc/en-us/000183560/dsa-2021-046-dell-client-security-update-for-amnesia-33-vulnerabilities |            | AMNESIA:33 |
 | Devolo         | https://www.devolo.de/fileadmin/Web-Content/DE/support/security/dSA201101-uIP_Stack-Security_Advisory.pdf             | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987) | AMNESIA:33 |
