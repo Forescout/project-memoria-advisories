@@ -36,6 +36,7 @@ Vulnerable vendors
 | Rockwell       | https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1131196                                          | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009)  | NAME:WRECK |
 | Rockwell       | https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1132370                                          | CVE-2020-25767, CVE-2020-25926, CVE-2020-25927, CVE-2020-25928, CVE-2021-27565, CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31226, CVE-2021-31227, CVE-2021-31228, CVE-2021-31400, CVE-2021-31401 | INFRA:HALT |
 | Schneider Electric | https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-217-01 | CVE-2021-31400, CVE-2021-31401, CVE-2020-35683, CVE-2020-35684, CVE-2020-35685 | INFRA:HALT |
+| Schneider Electric | https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-285-06 | CVE-2020-13987, CVE-2020-17438         | AMNESIA:33 |
 | Sharp          | https://jp.sharp/business/lcd-display/support/vulnerability.html                                                      |                 | AMNESIA:33 | 
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-288459.pdf                                                        | [CVE-2020-7461](https://nvd.nist.gov/vuln/detail/CVE-2020-7461)   | NAME:WRECK |
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-316383.pdf                                                        | [CVE-2021-37186](https://nvd.nist.gov/vuln/detail/CVE-2021-37186)  | NUMBER:JACK |
