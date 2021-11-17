@@ -50,11 +50,14 @@ Vulnerable vendors
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-599268.pdf                                                        | CVE-2020-25241, CVE-2020-27632                                                                                                                                                   | NUMBER:JACK |
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-541018.pdf                                                        | CVE-2020-13988, CVE-2020-13987, CVE-2020-17437, CVE-2020-17438, CVE-2020-17439, CVE-2020-17440, CVE-2020-24334, CVE-2020-24335                                                   | AMNESIA:33   |
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-789208.pdf                                                        | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31401 | INFRA:HALT |
+| Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-044112.pdf                                                        | | NUCLEUS:13 |
+| Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-114589.pdf                                                        | | NUCLEUS:13 |  
 | Suse           | https://lists.suse.com/pipermail/sle-security-updates/2021-March/008407.html                                          | CVE-2020-17437, CVE-2020-17438, CVE-2020-13987, CVE-2020-13988                                                                                                                   | AMNESIA:33   |
 | TagMaster      | https://tagmaster.com/wp-content/uploads/2020/12/1120-213-Security-Advisory-NuttX-TCP-IP-vulnerabilities.pdf          | [CVE-2020-17437](https://nvd.nist.gov/vuln/detail/CVE-2020-17437) | AMNESIA:33 |
 | TI             | https://www.ti.com/lit/an/swra697a/swra697a.pdf?ts=1627028462625                                                      |                | AMNESIA:33 |
 | uniFLOW        | https://www.uniflow.global/en/security/security-and-maintenance/#security_advisory_8                                  | CVE-2020-13988, CVE-2020-13987, CVE-2020-17438, CVE-2020-17437                                                                                                                   | AMNESIA:33   |
 | Weidmuller     | https://cert.vde.com/en/advisories/VDE-2021-042                                                                       | CVE-2020-31401, CVE-2020-35683, CVE-2020-35684 | INFRA:HALT |
+| WAGO           | https://cert.vde.com/en/advisories/VDE-2021-050/                                                                      | | NUCLEUS:13 
 | Weinert Automation | https://kb.cert.org/vuls/id/815128                                                                                | CVE-2020-13984, CVE-2020-13985, CVE-2020-13986, CVE-2020-13987, CVE-2020-13988, CVE-2020-24334, CVE-2020-24336, CVE-2020-17437, CVE-2020-17438, CVE-2020-17439, CVE-2020-17440   | AMNESIA:33   |
 | Yanzi Networks | https://yanzi.dev/#/security/advisories/2020-12-08                                                                    | CVE-2020-13984, CVE-2020-13985, CVE-2020-13986                                                                                                                                  | AMNESIA:33   |
 
@@ -70,11 +73,13 @@ Not vulnerable vendors
 | B Braun        | https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b--braun-information-concerning-name-wreck.html | NAME:WRECK |
 | Broadcom | https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2020-1167 | AMNESIA:33 |  
 | Digi International | https://www.digi.com/resources/security | AMNESIA:33 | 
+| Draeger        | https://static.draeger.com/security/download/2021-11-12-PSA-21-315-1_Nucleus13-Security-Advisory.pdf    | NUCLEUS:13 |
 | Edwards Life Sciences | https://www.edwards.com/devices/support/product-security | AMNESIA:33, NAME:WRECK |   
 | F5             | https://support.f5.com/csp/article/K35414143 | AMNESIA:33 |
 | F5             | https://support.f5.com/csp/article/K70746705 | NAME:WRECK |  
 | Fujitsu        | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 |
 | Fujitsu        | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
+| GE Healthcare  | https://www.gehealthcare.com/security | NUCLEUS:13 |
 | Intel          | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Kuka           | https://xpert.kuka.com/service-express/portal/project1_p/document/kuka-project1_p-basic_GC469_en?context=%7B%22filter%22%3A%7B%7D,%22text%22%3A%22vulnerabilities%22,%22useExpertQuery%22%3A0%7D | AMNESIA:33 |
 | Moxa           | https://www.moxa.com/en/support/product-support/security-advisory/moxas-response-regarding-the-amnesia33-vulnerability | AMNESIA:33 |
@@ -92,11 +97,12 @@ Investigating
 
 | Vendor         | Advisory link | Release name |
 |----------------|---------------|--------------|
-| Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities | AMNESIA:33 | 
+| Canon          | https://global.medical.canon/service-support/securityinformation/embedded-tcpip-stacks-vulnerabilities  | AMNESIA:33 | 
 | Canon          | https://global.medical.canon/service-support/securityinformation/multiple-tcp_ip-stacks-vulnerabilities | NAME:WRECK |  
-| Dell           | https://www.dell.com/support/kbdoc/en-us/000180988/amnesia-33-impact-on-dell-and-dell-emc-products      | AMNESIA:33   |
+| Dell           | https://www.dell.com/support/kbdoc/en-us/000180988/amnesia-33-impact-on-dell-and-dell-emc-products      | AMNESIA:33 |
 | Eaton          | https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/eaton-security-bulletin-for-amnesia-33.pdf | AMNESIA:33 | 
 | Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?an=000091576 | AMNESIA:33 |
+| Philips        | https://www.philips.com/a-w/security/security-advisories.html | NUCLEUS:13 |
 | Terumo         | https://www.terumobct.com/Pages/Support/AMNESIA-33.aspx | AMNESIA:33 |
 | Terumo         | https://www.terumobct.com/Pages/Support/NAMEWRECK.aspx  | NAME:WRECK |
 | Terumo         | https://www.terumobct.com/Pages/Support/INFRA-HALT.aspx | INFRA:HALT |
