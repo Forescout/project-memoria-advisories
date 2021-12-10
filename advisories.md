@@ -7,6 +7,7 @@ Vulnerable vendors
 | ATOS           | https://networks.unify.com/security/advisories/OBSO-2101-01.pdf                                                       | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987) | AMNESIA:33   |
 | BD             | https://cybersecurity.bd.com/bulletins-and-patches/third-party-vulnerability-wreck                                    | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009) | NAME:WRECK   |
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1621259206587-en-original-1.0.pdf                  | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987), [CVE-2020-17438](https://nvd.nist.gov/vuln/detail/CVE-2020-17438) | AMNESIA:33   |
+| B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1636745459972-en-original-1.0.pdf | [CVE-2020-27634](https://nvd.nist.gov/vuln/detail/CVE-2020-27634) | NUMBER:JACK
 | B&R automation | https://www.br-automation.com/downloads_br_productcatalogue/assets/1620567478764-en-original-1.0.pdf                  | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009) | NAME:WRECK   |
 | Cisco          | https://quickview.cloudapps.cisco.com/quickview/bug/CSCvy11445 | [CVE-2020-7461](https://nvd.nist.gov/vuln/detail/CVE-2020-7461) | NAME:WRECK | 
 | Cisco          | https://quickview.cloudapps.cisco.com/quickview/bug/CSCvy11444 | [CVE-2020-7461](https://nvd.nist.gov/vuln/detail/CVE-2020-7461) | NAME:WRECK | 
@@ -83,6 +84,7 @@ Not vulnerable vendors
 | Intel          | https://kb.cert.org/vuls/id/608209 | INFRA:HALT |
 | Kuka           | https://xpert.kuka.com/service-express/portal/project1_p/document/kuka-project1_p-basic_GC469_en?context=%7B%22filter%22%3A%7B%7D,%22text%22%3A%22vulnerabilities%22,%22useExpertQuery%22%3A0%7D | AMNESIA:33 |
 | Moxa           | https://www.moxa.com/en/support/product-support/security-advisory/moxas-response-regarding-the-amnesia33-vulnerability | AMNESIA:33 |
+| Moxa           | https://www.moxa.com/en/support/product-support/security-advisory/moxas-response-regarding-the-interniche-stack-infra-halt-vulnerabilities | INFRA:HALT |
 | Nexans         | https://www.nexans-ans.de/support/wp-content/uploads/2021/03/AMNESIA33_Network_Stack_Vulnerabilities_kd-1804e00.pdf | AMNESIA:33 | 
 | Olympus        | https://www.olympus.com.ru/medical/rmt/media/Content/Content-MSD/Images/General/COVID/Olympus-Response-to-Amnesia33-Vulnerabilities.pdf | AMNESIA:33 |
 | Palo Alto      | https://security.paloaltonetworks.com/PAN-SA-2021-0003 | NAME:WRECK |
