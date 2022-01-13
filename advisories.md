@@ -30,8 +30,10 @@ Vulnerable vendors
 | Netgear        | https://kb.cert.org/vuls/id/815128                                                                                    | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987)  | AMNESIA:33 |
 | open-iSCSI     | https://github.com/open-iscsi/open-iscsi/security/advisories/GHSA-r278-fm99-8rgp                                      | CVE-2020-17437, CVE-2020-13988, CVE-2020-13987                                                                                                                                | AMNESIA:33 |
 | Philips        | https://www.philips.com/a-w/security/security-advisories.html                                                         |                 | NAME:WRECK |
+| Philips Dynalite | https://www.dynalite.org/security-advisory/ | | INFRA:HALT |
 | Pilz           | https://www.pilz.com/download/restricted/Pilz_Security_Advis__2021-001_1005808-EN-02.pdf                              | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685 | INFRA:HALT |
 | Phoenix Contact | https://dam-mdc.phoenixcontact.com/asset/156443151564/fd2c482c84c16546afd992cf1786995e/Security_Advisory_Niche-Stack_20210804.pdf | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31400, CVE-2021-31401, CVE 2021-31227 | INFRA:HALT |
+| Phoenix Contact | https://cert.vde.com/en/advisories/VDE-2021-059/ |  | NUCLEUS:13 |
 | RENESAS        | https://www.renesas.com/us/en/document/oth/renesas-response-uip-open-source-tcp-ip-stacks-vulnerability-issue         |                 | AMNESIA:33 |
 | Ricoh          | https://www.ricoh.com/info/2021/0504_1/                                                                               | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009)  | NAME:WRECK | 
 | Rockwell       | https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1131196                                          | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009)  | NAME:WRECK |
@@ -53,6 +55,7 @@ Vulnerable vendors
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-789208.pdf                                                        | CVE-2020-35683, CVE-2020-35684, CVE-2020-35685, CVE-2021-31401 | INFRA:HALT |
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-044112.pdf                                                        | | NUCLEUS:13 |
 | Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-114589.pdf                                                        | | NUCLEUS:13 |  
+| Siemens        | https://cert-portal.siemens.com/productcert/pdf/ssa-620288.pdf                                                        | | NUCLEUS:13 |
 | Suse           | https://lists.suse.com/pipermail/sle-security-updates/2021-March/008407.html                                          | CVE-2020-17437, CVE-2020-17438, CVE-2020-13987, CVE-2020-13988                                                                                                                   | AMNESIA:33   |
 | TagMaster      | https://tagmaster.com/wp-content/uploads/2020/12/1120-213-Security-Advisory-NuttX-TCP-IP-vulnerabilities.pdf          | [CVE-2020-17437](https://nvd.nist.gov/vuln/detail/CVE-2020-17437) | AMNESIA:33 |
 | TI             | https://www.ti.com/lit/an/swra697a/swra697a.pdf?ts=1627028462625                                                      |                | AMNESIA:33 |
