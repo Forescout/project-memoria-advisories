@@ -17,6 +17,7 @@ Vulnerable vendors
 | Devolo         | https://www.devolo.de/fileadmin/Web-Content/DE/support/security/dSA201101-uIP_Stack-Security_Advisory.pdf             | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987) | AMNESIA:33 |
 | D-LINK         | https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10198                                  |                 | AMNESIA:33 |
 | EMH metering   | https://emh-metering.com/wp-content/uploads/2021/02/EMH_Advisory_VAXCET_210203.pdf                                    | CVE-2020-13987, CVE-2020-13988, CVE-2020-17437, CVE-2020-17438, CVE-2020-17439, CVE-2020-17440, CVE-2020-24334 | AMNESIA:33 |
+| Emerson        | https://www.emerson.com/documents/automation/security-notification-cyber-security-notification-hcc-embedded-interniche-tcp-ip-stack-vulnerability-en-7831500.pdf | CVE-2021-31400, CVE-2021-31401, CVE-2020-35684, CVE-2020-35685, CVE-2020-35683, CE-2021-36762 | INFRA:HALT |
 | EMU            | https://www.emuag.ch/support/vulnerability/emu-sec20201201/                                                           | CVE-2020-13988, CVE-2020-13987, CVE-2020-17440, CVE-2020-17439, CVE-2020-17439, CVE-2020-17437  | AMNESIA:33 | 
 | Extreme Networks | https://extremeportal.force.com/ExtrArticleDetail?an=000096235                                                      | [CVE-2016-20009](https://nvd.nist.gov/vuln/detail/CVE-2016-20009) | NAME:WRECK  |
 | Feig           | https://www.feig.de/fileadmin/user_upload/Downloads/Cybersecurity/2020-12-08-01_SecurityAdvisory.pdf                  | [CVE-2020-13987](https://nvd.nist.gov/vuln/detail/CVE-2020-13987), [CVE-2020-13988](https://nvd.nist.gov/vuln/detail/CVE-2020-13988) | AMNESIA:33 |
@@ -95,7 +96,6 @@ Not vulnerable vendors
 | SonicWall      | https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2020-0025 | AMNESIA:33 |
 | Vyaire         | https://www.vyaire.com/sites/us/files/2021-03/2021-03-04-product-security-bulletin_urgent_11_amnesia33_number_jack.pdf | AMNESIA:33, NUMBER:JACK | 
 | Zyxel          | https://support.zyxel.eu/hc/en-us/articles/360018352199-Zyxel-security-advisory-for-AMNESIA-33-vulnerabilities | AMNESIA:33 | 
-
 | Afero, Arista Networks, Barracuda Networks, Belden, Blackberry QNX, Ceragon Networks, Check Point, dd-wrt, Cisco, Espressif Systems, Fastly, Fitbit, Google, Infoblox, Juniper Networks, Miredo, Nokia, Rockwell Automation, Securepoint, Sophos, VMware, Wind River, Xilinx, Zebra Technologies, Zephyr Project | https://kb.cert.org/vuls/id/815128 | AMNESIA:33 | 
 
 Investigating
