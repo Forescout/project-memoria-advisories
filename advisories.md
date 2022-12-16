@@ -87,6 +87,7 @@ Not vulnerable vendors
 | B Braun        | https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/b--braun-information-concerning-name-wreck.html | NAME:WRECK |
 | B Braun        | https://www.bbraun.com/en/products-and-therapies/services/b-braun-vulnerability-disclosure-policy/security-advisory/B-Braun-Statement-on-Cybersecurity-Vulnerability-with-Infra_Halt.html | INFRA:HALT |
 | B Braun        | https://www.bbraun.com/en/products-and-solutions/temp/b--braun-coordinated-vulnerability-disclosure/security-advisory/11-2021-b-braun-statement-on-cybersecurity-vulnerability-wirh-nucleus_13.html | NUCLEUS:13 |
+| Boston Scientific | https://www.bostonscientific.com/en-US/customer-service/product-security/product-security-information.html | AMNESIA:33, INFRA:HALT |
 | Broadcom | https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2020-1167 | AMNESIA:33 |  
 | Digi International | https://www.digi.com/resources/security | AMNESIA:33 | 
 | Draeger        | https://static.draeger.com/security/download/2021-11-12-PSA-21-315-1_Nucleus13-Security-Advisory.pdf    | NUCLEUS:13 |
